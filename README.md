@@ -1,6 +1,6 @@
 **English** | [中文](https://p3terx.com/archives/build-openwrt-with-github-actions.html)
 # 已经弃用！ImmortalWrt支持RockPi4，且软件源可用，已放弃自编译
-## 感谢ImmortalWrt，下载地址https://downloads.immortalwrt.org/releases/21.02-SNAPSHOT/targets/rockchip/armv8/
+
 # 感谢Actions-OpenWrt作者的教学
 # Actions-OpenWrt
 
